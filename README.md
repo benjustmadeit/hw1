@@ -1,8 +1,5 @@
 # Homework 1: Music Era and Release-Market Classification
 
-### Student
-B12502028 吳以路
-
 ## Preparation
 ### Environment
 Python 3.12.15.
